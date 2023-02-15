@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathaniel Febiri Obeng</h1>
+<h1 align="center">Hi there 👋, Nathaniel Febiri Obeng here!</h1>
 <h3 align="center">I am a passionate full stack web developer from Ghana with 4 years of experience. I love developing softwares and I strive to learn more to better myself both personally and professionally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luck1609&label=Profile%20views&color=0e75b6&style=flat" alt="luck1609" /> </p>
